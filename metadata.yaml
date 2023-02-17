@@ -1,0 +1,32 @@
+_repo: L-inquiete-adolescence_69863
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chadourne, Louis
+    birthdate: 1890
+    deathdate: 1925
+    gutenberg_agent_id: '54861'
+    url: http://www.gutenberg.org/2009/agents/54861
+    wikipedia: https://fr.wikipedia.org/wiki/Louis_Chadourne
+description: ''
+gutenberg_issued: '2023-01-23'
+identifiers:
+  gutenberg: '69863'
+language: fr
+pgterms:marc904: https://archive.org/details/linquiteadoles00chad
+pgterms:marc905: 20220210140804chadourne
+pgterms:marc906: '1920'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: 'France: Albin Michel,1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: L'inquiète adolescence
+url: http://www.gutenberg.org/ebooks/69863
